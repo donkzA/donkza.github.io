@@ -11,7 +11,7 @@ title: About
                 <img src="/assets/images/donkz.jpg">
             </div>
             <div class="about-desc">
-                <p>Hello, just call me Donk.</p>
+                <p>Hi, just call me Donk.</p>
                 <p>A freelance web developer.</p>
             </div>
         </div>
