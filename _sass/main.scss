@@ -1,0 +1,73 @@
+.navigation-menu {
+    padding: 20px 0;
+    background-color: #262F34;
+}
+.navigation-menu a {
+    font-weight: 500;
+    color: #F1D3BC;
+}
+.navigation-menu a:hover {
+    color: #F34A4A;
+}
+main {
+    padding: 50px 0;
+}
+.jumbotron {
+    background-color: #262F34;
+}
+.hello-con {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 0.8;
+}
+.hello-title {
+    color: #F34A4A;
+    font-size: 6.5rem;
+    font-weight: bold;
+}
+.hello-first {
+    color: #FFFFFF;
+    font-size: 3.3rem;
+}
+.hello-last {
+    color: #F1D3BC;
+    font-size: 4rem;
+    line-height: 0.4;
+    text-align: center;
+}
+.hello-last + p {
+    margin-top: 50px;
+    color:  #FFFFFF;
+    font-weight: 400;
+}
+.profile {
+    padding: 0 30px;
+}
+#about-button, #project-button {
+    position: absolute;
+    top: 200px;
+}
+#about-button {
+    left: 0;
+}
+#project-button {
+    right: 0;
+}
+.btn-jumbo {
+    padding: 1.5rem 2rem;
+}
+.title-header {
+    color: #F34A4A;
+}
+.skills ul li, .interest ul li {
+    padding: 5px;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.contact-form {
+    font-size: 1.2rem;
+    font-weight: 500
+}
+.copyright {
+    display: none;
+}
