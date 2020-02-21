@@ -41,6 +41,7 @@ title: Home
                 <div class="interest col">
                     <h3 class="title-header">Interest</h3>
                     <ul class="nav flex-column">
+                        <li class="nav-item">PHP</li>
                         <li class="nav-item">React</li>
                         <li class="nav-item">Python</li>
                     </ul>
