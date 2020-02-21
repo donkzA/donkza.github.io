@@ -71,3 +71,21 @@ main {
 .copyright {
     display: none;
 }
+
+.section { margin: 20px; display: flex; justify-content: center; flex-wrap: wrap; }
+
+.themes { padding:10px; width: 50%; }
+
+.themes img, .logo img { width: 100%; }
+
+.logo { padding:10px; width: 25%; }
+
+h2 { color: #F34A4A; }
+
+.about-img, .about-desc { margin:20px; padding: 10px; }
+
+.about-img img { border-radius: 50%; }
+
+.about-desc p { font-size: 1.5rem; }
+
+#about-button a:link, #about-button a:visited, #project-button a:link, #project-button a:visited { color: #ffffff; text-decoration: none; }
