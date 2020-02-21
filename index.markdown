@@ -34,6 +34,8 @@ title: Home
                         <li class="nav-item">HTML/HTML5</li>
                         <li class="nav-item">CSS/CSS3</li>
                         <li class="nav-item">JavaScript/jQuery</li>
+                        <li class="nav-item">Theme Customization</li>
+                        <li class="nav-item">Website Debugging</li>
                     </ul>
                 </div>
                 <div class="interest col">
