@@ -46,6 +46,15 @@ title: Home
                         <li class="nav-item">Python</li>
                     </ul>
                 </div>
+                <div class="cms col">
+                    <h3 class="title-header">CMS</h3>
+                    <ul class="nav flex-column">
+                        <li class="nav-item">WordPress</li>
+                        <li class="nav-item">PrestaShop</li>
+                        <li class="nav-item">Magento 2</li>
+                        <li class="nav-item">BigCommerce</li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
